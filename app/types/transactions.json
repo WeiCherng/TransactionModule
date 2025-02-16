@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "amount": 150.0,
+    "date": "2025-02-10",
+    "description": "Grocery Shopping",
+    "type": "debit"
+  },
+  {
+    "id": "2",
+    "amount": 2000.0,
+    "date": "2025-02-11",
+    "description": "Salary Credit",
+    "type": "credit"
+  },
+  {
+    "id": "3",
+    "amount": 75.5,
+    "date": "2025-02-12",
+    "description": "Electricity Bill Payment",
+    "type": "debit"
+  },
+  {
+    "id": "4",
+    "amount": 50.0,
+    "date": "2025-02-13",
+    "description": "Dinner at Restaurant",
+    "type": "debit"
+  },
+  {
+    "id": "5",
+    "amount": 120.0,
+    "date": "2025-02-14",
+    "description": "Online Course Purchase",
+    "type": "debit"
+  },
+  {
+    "id": "6",
+    "amount": 300.0,
+    "date": "2025-02-15",
+    "description": "Freelance Project Payment",
+    "type": "credit"
+  },
+  {
+    "id": "7",
+    "amount": 45.0,
+    "date": "2025-02-16",
+    "description": "Gas Station Refill",
+    "type": "debit"
+  },
+  {
+    "id": "8",
+    "amount": 60.0,
+    "date": "2025-02-17",
+    "description": "Monthly Gym Membership",
+    "type": "debit"
+  },
+  {
+    "id": "9",
+    "amount": 500.0,
+    "date": "2025-02-18",
+    "description": "Stock Dividend",
+    "type": "credit"
+  },
+  {
+    "id": "10",
+    "amount": 30.0,
+    "date": "2025-02-19",
+    "description": "Movie Tickets",
+    "type": "debit"
+  },
+  {
+    "id": "11",
+    "amount": 100.0,
+    "date": "2025-02-20",
+    "description": "Clothing Purchase",
+    "type": "debit"
+  },
+  {
+    "id": "12",
+    "amount": 250.0,
+    "date": "2025-02-21",
+    "description": "Freelance Writing Payment",
+    "type": "credit"
+  },
+  {
+    "id": "13",
+    "amount": 80.0,
+    "date": "2025-02-22",
+    "description": "Grocery Shopping",
+    "type": "debit"
+  },
+  {
+    "id": "14",
+    "amount": 1500.0,
+    "date": "2025-02-23",
+    "description": "Bonus Credit",
+    "type": "credit"
+  },
+  {
+    "id": "15",
+    "amount": 90.0,
+    "date": "2025-02-24",
+    "description": "Utility Bill Payment",
+    "type": "debit"
+  },
+  {
+    "id": "16",
+    "amount": 40.0,
+    "date": "2025-02-25",
+    "description": "Bookstore Purchase",
+    "type": "debit"
+  },
+  {
+    "id": "17",
+    "amount": 200.0,
+    "date": "2025-02-26",
+    "description": "Sold Old Furniture",
+    "type": "credit"
+  },
+  {
+    "id": "18",
+    "amount": 60.0,
+    "date": "2025-02-27",
+    "description": "Dinner with Friends",
+    "type": "debit"
+  },
+  {
+    "id": "19",
+    "amount": 100.0,
+    "date": "2025-02-28",
+    "description": "Car Maintenance",
+    "type": "debit"
+  },
+  {
+    "id": "20",
+    "amount": 500.0,
+    "date": "2025-03-01",
+    "description": "Tax Refund",
+    "type": "credit"
+  }
+]
