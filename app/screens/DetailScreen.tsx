@@ -1,4 +1,4 @@
-import React from "react";
+import React, { FC } from "react";
 import { View, StyleSheet } from "react-native";
 import { RouteProp } from "@react-navigation/native";
 import { RootStackParamList } from "../navigation/AppNavigator";
@@ -26,7 +26,7 @@ const CreditLabel = () => (
   </View>
 );
 
-const DetailScreen: React.FC<Props> = ({ route }) => {
+const DetailScreen: FC<Props> = ({ route }) => {
   const { transaction } = route.params;
 
   return (

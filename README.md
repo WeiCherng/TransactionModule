@@ -34,3 +34,4 @@
 2. Simple filter for Hisotry Screen to filter card type etc
 3. More transactions data properties
 4. Some Simple animations throughout the module would improve the overall user experience 
+5. Use a cleaner and better font

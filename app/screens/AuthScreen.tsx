@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, FC } from "react";
 import * as LocalAuthentication from "expo-local-authentication";
 import { View, Alert, StyleSheet } from "react-native";
 import { StackNavigationProp } from "@react-navigation/stack";
@@ -11,7 +11,7 @@ type AuthScreenNavigationProp = StackNavigationProp<RootStackParamList, "Auth">;
 
 const LockIcon = (props: any) => <Icon name="lock" {...props} />;
 
-const AuthScreen: React.FC = () => {
+const AuthScreen: FC = () => {
   const [isBiometricSupported, setIsBiometricSupported] = useState(false);
   const navigation = useNavigation<AuthScreenNavigationProp>();
 
