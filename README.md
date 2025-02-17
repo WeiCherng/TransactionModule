@@ -26,4 +26,11 @@
 2. View List of Transactions History
 3. If the screen is pulled in the History Screen, it will refresh the list by simulating a api call by appending 2 fixed transactions data to the top of the list.
 4. Click the reveal icon to reveal the ammount & verified with biometrics. (Click on the eye slash icon to unreveal)
-5. Click on the specific transaction card to view more details about the transactions. 
+5. Click on the specific transaction card to view more details about the transactions.
+
+## Future Improvements
+
+1. Implement a better authentication workflow by utilizing local storage & session instead of navigate to another screen if a success auth 
+2. Simple filter for Hisotry Screen to filter card type etc
+3. More transactions data properties
+4. Some Simple animations throughout the module would improve the overall user experience 
